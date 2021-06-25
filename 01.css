@@ -1,0 +1,43 @@
+ #header {
+}
+#about {
+	width: 180px;
+	height: 50px;
+	margin-left: 60px;
+}
+#about-1 {
+	margin-left: 60px;
+	width: 180px;
+	height: 50px;
+}
+#about-2 {
+	width: 180px;
+	height: 50px;
+	margin-left: 60px;
+}
+#about-3 {
+	width: 180px;
+	height: 50px;
+	margin-left: 350px;
+}
+#about-4 {
+	width: 100px;
+	height: 50px;
+	font-size: 14px;
+}
+#word {
+	width: 800px;
+	height: 30px;
+}
+#word {
+	width: 800px;
+	height: 200px;
+	margin-top: 50px;
+	font-size: 16px;
+	color: #CAD186;
+}
+.font2{
+  font-size:  30px;
+  font-weight: 900;
+
+}
